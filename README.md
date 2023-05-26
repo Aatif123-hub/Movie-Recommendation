@@ -1,5 +1,5 @@
 
-# Kollywood Movie Genre Recommendation
+# Movie Genre Recommendation
 
 This code demonstrates a movie genre recommendation system using the Kollywood Movie Dataset. It recommends similar movies based on the cosine similarity score of movie genres.
 
@@ -13,7 +13,7 @@ This code demonstrates a movie genre recommendation system using the Kollywood M
 
 1. Make sure you have Python installed on your system. You can download it from the official Python website: https://www.python.org/downloads/
 
-2. Install the required packages using pip. Open a terminal/command prompt and run the following command:
+2. Install the required packages using pip. Open a terminal/command prompt and run the following command: !pip install -r  requirements.txt
 
 
 ## Usage
@@ -29,6 +29,8 @@ This code demonstrates a movie genre recommendation system using the Kollywood M
 ```python
 recommendations = genre_recommendations('Chennai 2 Singapore')
 print(recommendations)
-This will display a list of recommended movies similar to 'Chennai 2 Singapore' based on genre.
-License
+```
+5.This will display a list of recommended movies similar to 'Chennai 2 Singapore' based on genre.
+
+##License
 This project is licensed under the MIT License.
