@@ -32,5 +32,6 @@ print(recommendations)
 ```
 5.This will display a list of recommended movies similar to 'Chennai 2 Singapore' based on genre.
 
-##License
+## License
+
 This project is licensed under the MIT License.
